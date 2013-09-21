@@ -1,4 +1,4 @@
-# vitalica [![Build Status](https://secure.travis-ci.org/frank@duckbite.nl/vitalica.png?branch=master)](http://travis-ci.org/frank@duckbite.nl/vitalica)
+# vitalica [![Build Status](https://secure.travis-ci.org/ledere/vitalica.png?branch=master)](http://travis-ci.org/ledere/vitalica)
 
 A simple Stub Server for Front-End development projects
 
