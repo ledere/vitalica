@@ -1,0 +1,27 @@
+{
+  "name": "vitalica",
+  "version": "0.0.0",
+  "main": "lib/vitalica.js",
+  "description": "A simple Stub Server for Front-End development projects",
+  "homepage": "http://www.duckbite.nl/vitalica",
+  "bugs": "https://github.com/frank@duckbite.nl/vitalica/issues",
+  "author": {
+    "name": "Frank Huffener",
+    "email": "frank@duckbite.nl",
+    "url": "http://www.duckbite.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frank@duckbite.nl/vitalica"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}

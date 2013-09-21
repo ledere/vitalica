@@ -1,0 +1,14 @@
+{
+  "name": "node-simple-router",
+  "homepage": "https://github.com/sandy98/node-simple-router",
+  "_release": "master",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fe655733a64e6a6ac1e5419abaddc9b819d25211"
+  },
+  "_source": "git://github.com/sandy98/node-simple-router.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/sandy98/node-simple-router.git",
+  "_direct": true
+}
